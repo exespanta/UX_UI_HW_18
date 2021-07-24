@@ -18,10 +18,6 @@ body{
     color: #427598;
 }
 
-.herolink h2{
-    color: #427598;
-    font-size: 16px;
-}
 #navigation{
     display: flex;
     align-items: center;
@@ -45,14 +41,6 @@ body{
 #hero p{
     line-height: 2.0;
 }
-.herolink {
-    display: flex;
-    align-items: center;
-}
-
-.herolink img {
-    margin-left: 10px;
-}
 
 .herotext {
     display: flex;
@@ -63,24 +51,6 @@ body{
 
 .herotext p {
     padding: 15px 0px 15px 0px;
-}
-
-#work {
-    display: flex;
-    flex-direction: row;
-    align-items: space-evenly;
-    background-color: #fbfbfb;
-    margin-left: -278px;
-    margin-right: -278px;
-}
-
-#work img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 62px;
-    padding-bottom: 100px;
-
 }
 
 .herogrid {
@@ -100,11 +70,6 @@ body{
     "nacoinfo nacomockup";
 }
 
-.zenithinfo img{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
 .tools{
     padding-right: 35px;
     padding-left: 278px;
@@ -114,16 +79,6 @@ body{
 .skills{
     text-align: center;
     margin-right: 278px;
-}
-
-.zenithlink{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.zenithlink img{
-    margin-left: 10px;
 }
 
 .toolslist{
@@ -147,36 +102,6 @@ body{
 
 .skillslist p1{
     padding-bottom: 5px;
-}
-.nacolink{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.nacolink img{
-    margin-left: 10px;
-}
-
-.fccmockup{
-    padding-right: 35px;
-    padding-left: 278px;
-}
-
-.fccinfo{
-    display: flex;
-    flex-direction: column;
-    padding-right: 278px;
-}
-
-.fcclink{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.fcclink img{
-    margin-left: 10px;
 }
 
 .socialmedia {
